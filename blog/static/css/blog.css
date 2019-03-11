@@ -17,6 +17,7 @@
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+    color: #ffffff;
 }
 
 .date {
@@ -25,6 +26,10 @@ h1, h2, h3, h4 {
 
 .save {
     float: right;
+}
+
+.post-form label {
+    color: #ffffff;
 }
 
 .post-form textarea, .post-form input {
